@@ -1,1 +1,2 @@
-Compilador MinGW 6.3.0
+# Trabajo Práctico #0
+• Compilador MinGW 6.3.0
